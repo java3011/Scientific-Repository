@@ -8,7 +8,7 @@
     "express": "^4.18.2",
     "jsonwebtoken": "^9.0.0",
     "mysql": "^2.18.1",
-    "nodemon": "^1.14.9"
+    "nodemon": "^2.0.17"
   },
   "scripts": {
     "serve": "nodemon server.js",
